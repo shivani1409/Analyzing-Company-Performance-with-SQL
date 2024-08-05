@@ -1,0 +1,361 @@
+"category_name","supplier_region","units_in_stock","units_on_order","reorder_level"
+"Beverages","Asturias",20,0,0
+"Beverages","Asturias",69,0,5
+"Beverages","Asturias",57,0,20
+"Beverages","Asturias",91,0,20
+"Beverages","Asturias",15,10,30
+"Beverages","Asturias",148,0,45
+"Beverages","Asturias",159,50,75
+"Condiments","Asturias",135,0,0
+"Condiments","Asturias",63,0,10
+"Condiments","Asturias",4,100,20
+"Condiments","Asturias",59,0,30
+"Condiments","Asturias",246,70,75
+"Confections","Asturias",108,0,0
+"Confections","Asturias",28,40,10
+"Confections","Asturias",29,0,10
+"Confections","Asturias",15,70,25
+"Confections","Asturias",16,70,30
+"Confections","Asturias",190,0,90
+"Dairy Products","Asturias",224,0,0
+"Dairy Products","Asturias",26,0,15
+"Dairy Products","Asturias",9,40,25
+"Dairy Products","Asturias",22,30,30
+"Dairy Products","Asturias",112,70,40
+"Grains/Cereals","Asturias",26,0,0
+"Grains/Cereals","Asturias",36,0,20
+"Grains/Cereals","Asturias",43,90,60
+"Grains/Cereals","Asturias",203,0,75
+"Meat/Poultry","Asturias",29,0,0
+"Meat/Poultry","Asturias",21,0,10
+"Meat/Poultry","Asturias",115,0,20
+"Produce","Asturias",61,0,0
+"Produce","Asturias",4,20,5
+"Produce","Asturias",35,0,20
+"Seafood","Asturias",168,0,0
+"Seafood","Asturias",125,0,10
+"Seafood","Asturias",85,0,10
+"Seafood","Asturias",11,50,25
+"Seafood","Asturias",123,0,30
+"Seafood","Asturias",15,70,30
+"Seafood","Asturias",174,0,40
+"Beverages","LA",20,0,0
+"Beverages","LA",69,0,5
+"Beverages","LA",57,0,20
+"Beverages","LA",91,0,20
+"Beverages","LA",15,10,30
+"Beverages","LA",148,0,45
+"Beverages","LA",159,50,75
+"Condiments","LA",135,0,0
+"Condiments","LA",63,0,10
+"Condiments","LA",4,100,20
+"Condiments","LA",59,0,30
+"Condiments","LA",246,70,75
+"Confections","LA",108,0,0
+"Confections","LA",28,40,10
+"Confections","LA",29,0,10
+"Confections","LA",15,70,25
+"Confections","LA",16,70,30
+"Confections","LA",190,0,90
+"Dairy Products","LA",224,0,0
+"Dairy Products","LA",26,0,15
+"Dairy Products","LA",9,40,25
+"Dairy Products","LA",22,30,30
+"Dairy Products","LA",112,70,40
+"Grains/Cereals","LA",26,0,0
+"Grains/Cereals","LA",36,0,20
+"Grains/Cereals","LA",43,90,60
+"Grains/Cereals","LA",203,0,75
+"Meat/Poultry","LA",29,0,0
+"Meat/Poultry","LA",21,0,10
+"Meat/Poultry","LA",115,0,20
+"Produce","LA",61,0,0
+"Produce","LA",4,20,5
+"Produce","LA",35,0,20
+"Seafood","LA",168,0,0
+"Seafood","LA",125,0,10
+"Seafood","LA",85,0,10
+"Seafood","LA",11,50,25
+"Seafood","LA",123,0,30
+"Seafood","LA",15,70,30
+"Seafood","LA",174,0,40
+"Beverages","MA",20,0,0
+"Beverages","MA",69,0,5
+"Beverages","MA",57,0,20
+"Beverages","MA",91,0,20
+"Beverages","MA",15,10,30
+"Beverages","MA",148,0,45
+"Beverages","MA",159,50,75
+"Condiments","MA",135,0,0
+"Condiments","MA",63,0,10
+"Condiments","MA",4,100,20
+"Condiments","MA",59,0,30
+"Condiments","MA",246,70,75
+"Confections","MA",108,0,0
+"Confections","MA",29,0,10
+"Confections","MA",28,40,10
+"Confections","MA",15,70,25
+"Confections","MA",16,70,30
+"Confections","MA",190,0,90
+"Dairy Products","MA",224,0,0
+"Dairy Products","MA",26,0,15
+"Dairy Products","MA",9,40,25
+"Dairy Products","MA",22,30,30
+"Dairy Products","MA",112,70,40
+"Grains/Cereals","MA",26,0,0
+"Grains/Cereals","MA",36,0,20
+"Grains/Cereals","MA",43,90,60
+"Grains/Cereals","MA",203,0,75
+"Meat/Poultry","MA",29,0,0
+"Meat/Poultry","MA",21,0,10
+"Meat/Poultry","MA",115,0,20
+"Produce","MA",61,0,0
+"Produce","MA",4,20,5
+"Produce","MA",35,0,20
+"Seafood","MA",168,0,0
+"Seafood","MA",85,0,10
+"Seafood","MA",125,0,10
+"Seafood","MA",11,50,25
+"Seafood","MA",15,70,30
+"Seafood","MA",123,0,30
+"Seafood","MA",174,0,40
+"Beverages","MI",20,0,0
+"Beverages","MI",69,0,5
+"Beverages","MI",91,0,20
+"Beverages","MI",57,0,20
+"Beverages","MI",15,10,30
+"Beverages","MI",148,0,45
+"Beverages","MI",159,50,75
+"Condiments","MI",135,0,0
+"Condiments","MI",63,0,10
+"Condiments","MI",4,100,20
+"Condiments","MI",59,0,30
+"Condiments","MI",246,70,75
+"Confections","MI",108,0,0
+"Confections","MI",28,40,10
+"Confections","MI",29,0,10
+"Confections","MI",15,70,25
+"Confections","MI",16,70,30
+"Confections","MI",190,0,90
+"Dairy Products","MI",224,0,0
+"Dairy Products","MI",26,0,15
+"Dairy Products","MI",9,40,25
+"Dairy Products","MI",22,30,30
+"Dairy Products","MI",112,70,40
+"Grains/Cereals","MI",26,0,0
+"Grains/Cereals","MI",36,0,20
+"Grains/Cereals","MI",43,90,60
+"Grains/Cereals","MI",203,0,75
+"Meat/Poultry","MI",29,0,0
+"Meat/Poultry","MI",21,0,10
+"Meat/Poultry","MI",115,0,20
+"Produce","MI",61,0,0
+"Produce","MI",4,20,5
+"Produce","MI",35,0,20
+"Seafood","MI",168,0,0
+"Seafood","MI",125,0,10
+"Seafood","MI",85,0,10
+"Seafood","MI",11,50,25
+"Seafood","MI",123,0,30
+"Seafood","MI",15,70,30
+"Seafood","MI",174,0,40
+"Beverages","NSW",20,0,0
+"Beverages","NSW",69,0,5
+"Beverages","NSW",91,0,20
+"Beverages","NSW",57,0,20
+"Beverages","NSW",15,10,30
+"Beverages","NSW",148,0,45
+"Beverages","NSW",159,50,75
+"Condiments","NSW",135,0,0
+"Condiments","NSW",63,0,10
+"Condiments","NSW",4,100,20
+"Condiments","NSW",59,0,30
+"Condiments","NSW",246,70,75
+"Confections","NSW",108,0,0
+"Confections","NSW",29,0,10
+"Confections","NSW",28,40,10
+"Confections","NSW",15,70,25
+"Confections","NSW",16,70,30
+"Confections","NSW",190,0,90
+"Dairy Products","NSW",224,0,0
+"Dairy Products","NSW",26,0,15
+"Dairy Products","NSW",9,40,25
+"Dairy Products","NSW",22,30,30
+"Dairy Products","NSW",112,70,40
+"Grains/Cereals","NSW",26,0,0
+"Grains/Cereals","NSW",36,0,20
+"Grains/Cereals","NSW",43,90,60
+"Grains/Cereals","NSW",203,0,75
+"Meat/Poultry","NSW",29,0,0
+"Meat/Poultry","NSW",21,0,10
+"Meat/Poultry","NSW",115,0,20
+"Produce","NSW",61,0,0
+"Produce","NSW",4,20,5
+"Produce","NSW",35,0,20
+"Seafood","NSW",168,0,0
+"Seafood","NSW",85,0,10
+"Seafood","NSW",125,0,10
+"Seafood","NSW",11,50,25
+"Seafood","NSW",15,70,30
+"Seafood","NSW",123,0,30
+"Seafood","NSW",174,0,40
+"Beverages","OR",20,0,0
+"Beverages","OR",69,0,5
+"Beverages","OR",57,0,20
+"Beverages","OR",91,0,20
+"Beverages","OR",15,10,30
+"Beverages","OR",148,0,45
+"Beverages","OR",159,50,75
+"Condiments","OR",135,0,0
+"Condiments","OR",63,0,10
+"Condiments","OR",4,100,20
+"Condiments","OR",59,0,30
+"Condiments","OR",246,70,75
+"Confections","OR",108,0,0
+"Confections","OR",29,0,10
+"Confections","OR",28,40,10
+"Confections","OR",15,70,25
+"Confections","OR",16,70,30
+"Confections","OR",190,0,90
+"Dairy Products","OR",224,0,0
+"Dairy Products","OR",26,0,15
+"Dairy Products","OR",9,40,25
+"Dairy Products","OR",22,30,30
+"Dairy Products","OR",112,70,40
+"Grains/Cereals","OR",26,0,0
+"Grains/Cereals","OR",36,0,20
+"Grains/Cereals","OR",43,90,60
+"Grains/Cereals","OR",203,0,75
+"Meat/Poultry","OR",29,0,0
+"Meat/Poultry","OR",21,0,10
+"Meat/Poultry","OR",115,0,20
+"Produce","OR",61,0,0
+"Produce","OR",4,20,5
+"Produce","OR",35,0,20
+"Seafood","OR",168,0,0
+"Seafood","OR",125,0,10
+"Seafood","OR",85,0,10
+"Seafood","OR",11,50,25
+"Seafood","OR",123,0,30
+"Seafood","OR",15,70,30
+"Seafood","OR",174,0,40
+"Beverages","Québec",40,0,0
+"Beverages","Québec",138,0,10
+"Beverages","Québec",114,0,40
+"Beverages","Québec",182,0,40
+"Beverages","Québec",30,20,60
+"Beverages","Québec",296,0,90
+"Beverages","Québec",318,100,150
+"Condiments","Québec",270,0,0
+"Condiments","Québec",126,0,20
+"Condiments","Québec",8,200,40
+"Condiments","Québec",118,0,60
+"Condiments","Québec",492,140,150
+"Confections","Québec",216,0,0
+"Confections","Québec",58,0,20
+"Confections","Québec",56,80,20
+"Confections","Québec",30,140,50
+"Confections","Québec",32,140,60
+"Confections","Québec",380,0,180
+"Dairy Products","Québec",448,0,0
+"Dairy Products","Québec",52,0,30
+"Dairy Products","Québec",18,80,50
+"Dairy Products","Québec",44,60,60
+"Dairy Products","Québec",224,140,80
+"Grains/Cereals","Québec",52,0,0
+"Grains/Cereals","Québec",72,0,40
+"Grains/Cereals","Québec",86,180,120
+"Grains/Cereals","Québec",406,0,150
+"Meat/Poultry","Québec",58,0,0
+"Meat/Poultry","Québec",42,0,20
+"Meat/Poultry","Québec",230,0,40
+"Produce","Québec",122,0,0
+"Produce","Québec",8,40,10
+"Produce","Québec",70,0,40
+"Seafood","Québec",336,0,0
+"Seafood","Québec",250,0,20
+"Seafood","Québec",170,0,20
+"Seafood","Québec",22,100,50
+"Seafood","Québec",30,140,60
+"Seafood","Québec",246,0,60
+"Seafood","Québec",348,0,80
+"Beverages","Victoria",20,0,0
+"Beverages","Victoria",69,0,5
+"Beverages","Victoria",91,0,20
+"Beverages","Victoria",57,0,20
+"Beverages","Victoria",15,10,30
+"Beverages","Victoria",148,0,45
+"Beverages","Victoria",159,50,75
+"Condiments","Victoria",135,0,0
+"Condiments","Victoria",63,0,10
+"Condiments","Victoria",4,100,20
+"Condiments","Victoria",59,0,30
+"Condiments","Victoria",246,70,75
+"Confections","Victoria",108,0,0
+"Confections","Victoria",29,0,10
+"Confections","Victoria",28,40,10
+"Confections","Victoria",15,70,25
+"Confections","Victoria",16,70,30
+"Confections","Victoria",190,0,90
+"Dairy Products","Victoria",224,0,0
+"Dairy Products","Victoria",26,0,15
+"Dairy Products","Victoria",9,40,25
+"Dairy Products","Victoria",22,30,30
+"Dairy Products","Victoria",112,70,40
+"Grains/Cereals","Victoria",26,0,0
+"Grains/Cereals","Victoria",36,0,20
+"Grains/Cereals","Victoria",43,90,60
+"Grains/Cereals","Victoria",203,0,75
+"Meat/Poultry","Victoria",29,0,0
+"Meat/Poultry","Victoria",21,0,10
+"Meat/Poultry","Victoria",115,0,20
+"Produce","Victoria",61,0,0
+"Produce","Victoria",4,20,5
+"Produce","Victoria",35,0,20
+"Seafood","Victoria",168,0,0
+"Seafood","Victoria",85,0,10
+"Seafood","Victoria",125,0,10
+"Seafood","Victoria",11,50,25
+"Seafood","Victoria",15,70,30
+"Seafood","Victoria",123,0,30
+"Seafood","Victoria",174,0,40
+"Beverages",NULL,400,0,0
+"Beverages",NULL,1380,0,100
+"Beverages",NULL,1140,0,400
+"Beverages",NULL,1820,0,400
+"Beverages",NULL,300,200,600
+"Beverages",NULL,2960,0,900
+"Beverages",NULL,3180,1000,1500
+"Condiments",NULL,2700,0,0
+"Condiments",NULL,1260,0,200
+"Condiments",NULL,80,2000,400
+"Condiments",NULL,1180,0,600
+"Condiments",NULL,4920,1400,1500
+"Confections",NULL,2160,0,0
+"Confections",NULL,560,800,200
+"Confections",NULL,580,0,200
+"Confections",NULL,300,1400,500
+"Confections",NULL,320,1400,600
+"Confections",NULL,3800,0,1800
+"Dairy Products",NULL,4480,0,0
+"Dairy Products",NULL,520,0,300
+"Dairy Products",NULL,180,800,500
+"Dairy Products",NULL,440,600,600
+"Dairy Products",NULL,2240,1400,800
+"Grains/Cereals",NULL,520,0,0
+"Grains/Cereals",NULL,720,0,400
+"Grains/Cereals",NULL,860,1800,1200
+"Grains/Cereals",NULL,4060,0,1500
+"Meat/Poultry",NULL,580,0,0
+"Meat/Poultry",NULL,420,0,200
+"Meat/Poultry",NULL,2300,0,400
+"Produce",NULL,1220,0,0
+"Produce",NULL,80,400,100
+"Produce",NULL,700,0,400
+"Seafood",NULL,3360,0,0
+"Seafood",NULL,1700,0,200
+"Seafood",NULL,2500,0,200
+"Seafood",NULL,220,1000,500
+"Seafood",NULL,2460,0,600
+"Seafood",NULL,300,1400,600
+"Seafood",NULL,3480,0,800
